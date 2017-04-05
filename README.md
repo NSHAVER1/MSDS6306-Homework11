@@ -9,6 +9,9 @@ Nicole Shaver
 This project downloads the S&P500 stock index data from the default data source
 used by the get.hist.quote function that is part of the tseries data and examines
 the effect of increasing decay factors on a plot of that data.
+# RESULTS OF PROJECT FOR REVIEW ON GITHUB
+
+To go directly to the output of this research, click here: https://github.com/NSHAVER1/MSDS6306-Homework11/blob/master/paper/NShaver_DDS_HW11.md
 
 # COPYRIGHT INFO
 
