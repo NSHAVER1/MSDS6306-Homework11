@@ -65,10 +65,8 @@ README.md
  NShaver_DDS_HW11.Rmd
  
   + R markdown file that generates the analysis and conclusions
-	
-NShaver_DDS_HW11.html
 
-  + html file that contains the analysis and conclusions
+
   
 NShaver_DDS_HW11.md
 
@@ -84,8 +82,7 @@ plots-1.png
 To reproduce the study download the project to the desired file path.  Open up the 
 command line on your machine.  Navigate to the file path the project was downloaded to
 in the command line.  Type 'make clean' in the command line.  Then type 'make all' in
-the command line.  The remaining files along with the NShaver_DDS_HW11.html
-should be populated in the project's paper folder.
+the command line.  
 
 # SESSIONINFO()
 
