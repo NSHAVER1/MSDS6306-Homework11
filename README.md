@@ -45,7 +45,7 @@ The file structure should be as follows:
   + paper <- NShaver_DDS_HW11.Rmd | NShaver_DDS_HW11.html | 
   NShaver_DDS_HW11.md | NShaver_DDS_HW11_files
              
-    + NShaver_DDS_HW11_files <- figure-html <- plots-1.png 
+    + NShaver_DDS_HW11_files <- figure-markdown_github <- plots-1.png 
   
 
 # FILE INFO
