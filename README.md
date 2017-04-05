@@ -45,7 +45,7 @@ The file structure should be as follows:
   
   + Makefile.txt
   
-  + paper <- NShaver_DDS_HW11.Rmd | NShaver_DDS_HW11.html | 
+  + paper <- NShaver_DDS_HW11.Rmd |  
   NShaver_DDS_HW11.md | NShaver_DDS_HW11_files
              
     + NShaver_DDS_HW11_files <- figure-markdown_github <- plots-1.png 
